@@ -1,0 +1,13 @@
+trainingTimeMean  trainingTimeSTD  testingTimeMean   testingTimeSTD     AccuracyMean      AccuracySTD
+learning_Rate :       0.05,  max_depth :          3, 
+       508117.52         30077.73           116.76            30.20           91.63%            3.19%
+learning_Rate :        0.1,  max_depth :          3, 
+       498597.17         56797.45           186.16            21.55           91.63%            3.20%
+learning_Rate :       0.15,  max_depth :          3, 
+       471124.74         14945.66           152.56             4.18           91.82%            2.85%
+learning_Rate :       0.15,  max_depth :          2, 
+       382834.59         11091.13           128.87            47.23           91.70%            2.90%
+learning_Rate :       0.15,  max_depth :          4, 
+       585295.78         44704.09           176.52            70.73           91.19%            3.26%
+learning_Rate :       0.15,  max_depth :          6, 
+       614829.47         30823.98           276.85            84.33           89.89%            3.47%

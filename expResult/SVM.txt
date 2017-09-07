@@ -1,0 +1,15 @@
+trainingTimeMean  trainingTimeSTD  testingTimeMean   testingTimeSTD     AccuracyMean      AccuracySTD
+    kernel :       poly,          C :        1.0, 
+         9990.10           379.40          4812.13           279.87           89.46%            2.22%
+    kernel :        rbf,          C :        1.0, 
+         6435.55           264.95          3439.65            69.10           91.02%            2.29%
+    kernel :     linear,          C :        1.0, 
+         1987.45           181.05           807.68            54.45           93.86%            2.13%
+    kernel :     linear,          C :        0.1, 
+         2162.62            77.28          1105.54            47.10           93.35%            2.27%
+    kernel :     linear,          C :        0.5, 
+         1898.67           106.79           876.72            69.22           93.97%            2.02%
+    kernel :     linear,          C :        1.0, 
+         1895.07            56.87           760.04            40.65           93.86%            2.13%
+    kernel :     linear,          C :        2.0, 
+         1911.18            42.47           743.88            70.12           93.65%            2.15%

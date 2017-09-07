@@ -1,0 +1,13 @@
+trainingTimeMean  trainingTimeSTD  testingTimeMean   testingTimeSTD     AccuracyMean      AccuracySTD
+n_estimators :          5, 
+          594.71            55.81            12.77             4.93           87.40%            2.48%
+n_estimators :         15, 
+         1922.05           461.66            17.11             3.35           90.38%            3.42%
+n_estimators :         25, 
+         2698.89           113.73            20.10             6.87           90.60%            3.21%
+n_estimators :         35, 
+         4091.93           495.26            25.57            14.96           90.93%            3.82%
+n_estimators :         45, 
+         5093.58           187.16            39.63             7.83           91.24%            3.45%
+n_estimators :         55, 
+         5968.95            84.48            29.17             3.24           91.20%            3.23%

@@ -1,0 +1,15 @@
+trainingTimeMean  trainingTimeSTD  testingTimeMean   testingTimeSTD     AccuracyMean      AccuracySTD
+   penalty :         l1,          C :        1.0, 
+         2614.68           194.16            10.76             1.89           93.84%            2.31%
+   penalty :         l2,          C :        1.0, 
+         4206.59           173.72             2.98             0.31           93.54%            2.58%
+   penalty :         l2,          C :        0.1, 
+         3556.58           312.97             9.08             3.01           92.91%            2.35%
+   penalty :         l2,          C :        0.5, 
+         4271.22           642.43            10.72             4.45           93.52%            2.58%
+   penalty :         l2,          C :        1.0, 
+         4236.53           240.37             7.09             5.51           93.54%            2.58%
+   penalty :         l2,          C :          2, 
+         4471.59           151.22             3.08             0.47           93.78%            2.54%
+   penalty :         l2,          C :          5, 
+         4988.07           118.38             2.93             0.48           93.81%            2.65%
